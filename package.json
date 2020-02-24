@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valeriiyukov/yukov_working-enviroment2.git"
+    "url": "git+https://github.com/DarkElectro74/ajs-homeworks1.git"
   },
   "keywords": [
     "game"
   ],
-  "author": "Valeriy",
+  "author": "Egor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/valeriiyukov/yukov_working-enviroment2/issues"
+    "url": "https://github.com/DarkElectro74/ajs-homeworks1/issues"
   },
-  "homepage": "https://github.com/valeriiyukov/yukov_working-enviroment2#readme",
+  "homepage": "https://github.com/DarkElectro74/ajs-homeworks1#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
